@@ -1,1 +1,0 @@
-# literarcycampass_client
